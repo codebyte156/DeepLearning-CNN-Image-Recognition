@@ -1,4 +1,4 @@
-# CodeByte156 - DeepLearning CNN Image Recognition Project 
+# Codebyte156 - DeepLearning CNN Image Recognition Project 
 
 Classifier for images or video input using **Google TensorFlow**. 
 Research project on Convolutional Neural Networks, feature extraction, transfer learning, adversary noise and *DeepDream*. 
