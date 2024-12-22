@@ -131,8 +131,8 @@ DeepLearning-CNN-Image-Recognition/
 
 | Input Image       | Predicted Class | Confidence |
 |-------------------|-----------------|------------|
-| ![img1](results/img1.jpg) | Cat             | 95%        |
-| ![img2](results/img2.jpg) | Dog             | 92%        |
+| ![img1](imagesForClassification/cat.jpg) | Cat             | 95%        |
+| ![img2](imagesForClassification/dog.jpg) | Dog             | 92%        |
 
 ### Adversarial Examples
 
@@ -140,11 +140,11 @@ Original vs. Perturbed Images:
 
 | Original Image    | Adversarial Image |
 |-------------------|-------------------|
-| ![orig](results/orig.jpg) | ![adv](results/adv.jpg) |
+| ![orig](adversaryImages/golden-retriever_original_299x299.jpg) | ![adv](adversaryImages/golden-retriever_downscaled.jpg) |
 
 ### DeepDream Visualizations
 
-![deepdream](results/deepdream.jpg)
+![deepdream](dreams/controlled-2_iterative0003.jpg)
 
 ---
 
