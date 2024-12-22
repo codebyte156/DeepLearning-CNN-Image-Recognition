@@ -142,6 +142,12 @@ Original vs. Perturbed Images:
 |-------------------|-------------------|
 | ![orig](adversaryImages/golden-retriever_original_299x299.jpg) | ![adv](adversaryImages/golden-retriever_downscaled.jpg) |
 
+### Flow Chart for Original Image + Amplified Noise
+
+![orig2](images/06_flowchart.png)
+
+Original vs. Perturbed Images:
+
 ### DeepDream Visualizations
 
 ![deepdream](dreams/controlled-2_iterative0003.jpg)
